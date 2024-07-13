@@ -89,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
+      skillName: "Assembly",
+      fontAwesomeClassname: "fas fa-microchip",
+    },
+    {
       skillName: "MySQL",
       fontAwesomeClassname: "fas fa-database"
     },
