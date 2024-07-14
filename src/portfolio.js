@@ -130,12 +130,12 @@ const educationInfo = {
       logo: require("./assets/images/Trinitylogo.png"),
       subHeader: "Student",
       duration: "Ongoing",
-      desc: "Innovator of the year 2021.",
-      descBullets: [
-        "Developed a revolutionary mixer powered by magnets"
+      desc: [
+        "Innovator of the year 2021.",
+        "Innovator of the year 2023."
       ],
-      desc: "Innovator of the year 2023.",
       descBullets: [
+        "Developed a revolutionary mixer powered by magnets",
         "Designed and built a highly advanced 2-stage water rocket with features like active fin control, ground live telemetry, and chute deployment. This project showcased my expertise in engineering and innovation."
       ]
     }
