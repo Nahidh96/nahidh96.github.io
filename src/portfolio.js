@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Nahidh Naseem",
-  title: "Hi everyone, I'm Nahidh",
+  title: "Hello, I'm Nahidh",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with PHP / Mysql / Javascript / HTML and some other cool libraries."
+    "A passionate Full Stack Software Developer 🚀 with extensive experience in building Web and Mobile applications using PHP, MySQL, JavaScript, HTML, and various other modern libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Passionate Full Stack Developer with a thirst for exploring diverse tech stacks",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -133,6 +133,10 @@ const educationInfo = {
       desc: "Innovator of the year 2021.",
       descBullets: [
         "Developed a revolutionary mixer powered by magnets"
+      ],
+      desc: "Innovator of the year 2023.",
+      descBullets: [
+        "Designed and built a highly advanced 2-stage water rocket with features like active fin control, ground live telemetry, and chute deployment. This project showcased my expertise in engineering and innovation."
       ]
     }
   ]
@@ -180,13 +184,6 @@ const workExperiences = {
       company: "GitHub",
       companylogo: require("./assets/images/githubLogo.png"),
       date: "July 2024 – Ongoing",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
@@ -246,7 +243,7 @@ const achievementSection = {
     {
       title: "IDEALIZE '23 Finalist",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "First Trinity College Kandy student to be selected as a finalist for the IDEALIZE '23 competition.",
       image: require("./assets/images/Idealizelogo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -267,7 +264,7 @@ const achievementSection = {
     {
       title: "Innovator of The Year",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Developed a Google Assistant Action JavaScript that is available on 2 Billion devices world wide.",
       image: require("./assets/images/Trinitylogo.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
