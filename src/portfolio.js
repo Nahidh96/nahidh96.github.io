@@ -132,8 +132,7 @@ const educationInfo = {
       duration: "Ongoing",
       desc: "Innovator of the year 2021.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed a revolutionary mixer powered by magnets"
       ]
     }
   ]
