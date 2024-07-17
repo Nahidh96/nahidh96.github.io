@@ -1,6 +1,6 @@
 # Nahidh Naseem Portfolio
 
-Welcome to my portfolio website! You can view my portfolio by visiting [nahidh96.github.io](https://nahidh96.github.io) or [nahidhnaseem.netlify.app](https://nahidhnaseem.netlify.app).
+Welcome to my portfolio website! You can view my portfolio by visiting [nahidh96.github.io](https://nahidh96.github.io) or [nahidhnaseem.netlify.app](https://nahidhnaseem.netlify.app), well, its still under development.
 
 ## About Me
 
