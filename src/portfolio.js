@@ -207,12 +207,23 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "360 Labs",
+      projectName: "Base Hospital Gampola",
+      projectDesc: "Please Ignore the UI/UX, this was 5 years ago",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://bhgampola.health.gov.lk/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "StudyGuideEdu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "#"
         }
       ]
     }
@@ -258,7 +269,7 @@ const achievementSection = {
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "View Certificate",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
