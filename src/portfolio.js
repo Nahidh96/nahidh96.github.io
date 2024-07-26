@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: "Nahidh Naseem",
-  title: "Hello, I'm Nahidh",
+  title: "Hello, I'm Nahidh!",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 with extensive experience in building Web and Mobile applications using PHP, MySQL, JavaScript, HTML, and various other modern libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1yFm_LEttLE2LKyDnzGgv38ZTfsAgbAnU/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -39,6 +39,7 @@ const socialMediaLinks = {
   gitlab: "https://gitlab.com/Nahidh96/",
   facebook: "https://www.facebook.com/nahidh_naseem/",
   medium: "https://medium.com/@nahidhnaseem",
+  instagram: "https://www.instagram.com/nahidh_naseem/",
   stackoverflow: "https://stackoverflow.com/users/22455147/nahidh-naseem",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -131,8 +132,7 @@ const educationInfo = {
       subHeader: "Student",
       duration: "Ongoing",
       desc: [
-        "Innovator of the year 2021.",
-        "Innovator of the year 2023."
+        "Innovator of the year 2021."
       ],
       descBullets: [
         "Developed a revolutionary mixer powered by magnets",
@@ -169,18 +169,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      role: "Campus Student Developer",
+      role: "Student Developer",
       company: "GitHub",
       companylogo: require("./assets/images/githubLogo.png"),
       date: "July 2024 – Ongoing",
@@ -200,17 +189,17 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Main Projects",
   subtitle: "STARTUPS AND COMPANIES I CREATED / DEVELOPED / HELPED",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "AgriConnect - CEO",
+      image: require("./assets/images/agriconnect.png"),
+      projectName: "AgriConnect - CEO, Founder, Developer",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://agriconnect.lk/"
+          url: "#"
         }
         //  you can add extra buttons here.
 
@@ -218,12 +207,23 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "360 Labs",
+      projectName: "Base Hospital Gampola",
+      projectDesc: "Please Ignore the UI/UX, this was 5 years ago",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://bhgampola.health.gov.lk/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "StudyGuideEdu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "#"
         }
       ]
     }
@@ -269,7 +269,7 @@ const achievementSection = {
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "View Certificate",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]

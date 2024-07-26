@@ -1,6 +1,6 @@
 # Nahidh Naseem Portfolio
 
-Welcome to my portfolio website! You can view my portfolio by visiting [nahidh96.github.io](https://nahidh96.github.io) or [nahidhnaseem.netlify.app](https://nahidhnaseem.netlify.app).
+Welcome to my portfolio website! You can view my portfolio by visiting [nahidh96.github.io](https://nahidh96.github.io) or [nahidhnaseem.netlify.app](https://nahidhnaseem.netlify.app), well, its still under development.
 
 ## About Me
 
@@ -8,7 +8,7 @@ I am Nahidh Naseem, a passionate web developer with a keen interest in creating 
 
 ## Projects
 
-Here are some of the projects I have worked on:
+Here are some of the projects I have worked on,:
 
 1. Project 1: [Project Name](https://github.com/nahidh96/project1)
   - Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nunc id aliquam tincidunt, nisl nunc fringilla est, id aliquam tellus ligula id nunc.
