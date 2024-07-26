@@ -30,6 +30,7 @@ body {
   html,
   body {
     font-size: rem;
+    width: 70%;
     line-height: normal;
   }
 }
